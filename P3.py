@@ -243,37 +243,7 @@ if x > tmbf:
 else:
     calx = tmbf + 100    
 tmbfl = [tmbf]*len(dias)  
-#
-#if x > tmbf:
-#    
-#    calx =x +100
-#else:
-#    calx = tmbf + 100    
-#carbd = [tmbf]*len(dias)  
-##
-##if x > tmbf:
-##    
-##    calx =x +100
-##else:
-##    calx = tmbf + 100    
-#tmbfl = [tmbf]*len(dias)  
-##
-##if x > tmbf:
-##    
-##    calx =x +100
-##else:
-#    calx = tmbf + 100    
-#tmbfl = [tmbf]*len(dias)    
-#calr=0
-#
-#prox=0
-#pror=0
-#
-#carx=0
-#carr=0
-#
-#gorx=0
-#gorr=0
+
 
 tempo = range(0, len(dias))
 
